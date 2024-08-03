@@ -13,10 +13,10 @@ Dalam proyek ini, saya melakukan beberapa tahapan penting, antara lain:
   5. Evaluasi Model: Mengevaluasi kinerja model menggunakan metrik seperti akurasi, presisi, recall, dan F1-score. Juga, melakukan validasi silang (cross-validation) untuk memastikan keandalan model.
   6. Optimasi Model: Mengoptimalkan hyperparameter model untuk meningkatkan performa prediksi dengan menggunakan teknik grid search atau random search.
   7. Pembuatan Website: Selain pengembangan model, saya juga membuat sebuah website untuk memfasilitasi interaksi pengguna dengan model klasifikasi ini. Website ini dibangun menggunakan Bahasa Java. Beberapa fitur utama dari website ini meliputi:
-        a. Formulir Input Data: Pengguna dapat memasukkan data pasien melalui formulir yang user-friendly.
-        b. Prediksi Penyakit Jantung: Website akan mengirimkan data yang dimasukkan ke model Random Forest dan menampilkan hasil prediksi secara real-time.
-        c. Visualisasi Data: Menyediakan visualisasi data dan hasil analisis untuk membantu pengguna memahami kondisi kesehatan pasien.
-        d. Dokumentasi dan Presentasi: Menyusun laporan akhir dan mempresentasikan hasil proyek kepada pembimbing dan rekan-rekan magang, menyoroti temuan utama, metodologi, dan implikasi dari hasil yang diperoleh.
+     a. Formulir Input Data: Pengguna dapat memasukkan data pasien melalui formulir yang user-friendly.
+     b. Prediksi Penyakit Jantung: Website akan mengirimkan data yang dimasukkan ke model Random Forest dan menampilkan hasil prediksi secara real-time.
+     c. Visualisasi Data: Menyediakan visualisasi data dan hasil analisis untuk membantu pengguna memahami kondisi kesehatan pasien.
+     d. Dokumentasi dan Presentasi: Menyusun laporan akhir dan mempresentasikan hasil proyek kepada pembimbing dan rekan-rekan magang, menyoroti temuan utama, metodologi, dan implikasi dari hasil yang diperoleh.
 
 Projek ini memberikan saya pengalaman berharga dalam menerapkan konsep machine learning pada masalah kesehatan nyata, serta memperkuat kemampuan teknis saya dalam data science dan pemrograman Python.
 Pengalaman ini juga mengajarkan pentingnya dedikasi yang besar serta komunikasi yang efektif dalam menyelesaikan proyek skala besar.
